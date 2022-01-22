@@ -8,4 +8,5 @@ The school board has hired our firm to complete an analysis of the PyCity school
 
 ###### Thomas High School Testing prior to edits:
 ![](https://github.com/bktescher/school_districtA/blob/main/resources/School%20Summary%20pre%20edit.png)
-
+###### Thomas High School Testing post edits: 
+![](https://github.com/bktescher/school_districtA/blob/main/resources/School%20Summary_post_edit.png)
