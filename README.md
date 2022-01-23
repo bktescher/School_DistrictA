@@ -8,25 +8,25 @@ The school board has hired our firm to complete an analysis of the PyCity school
 ![](https://github.com/bktescher/school_districtA/blob/main/resources/PNG/THS%20aggregation.png)
 
 ## Overview
-Adjustment of the Thomas High School data allows for an accurate portrayal of the testing statistics for both, Thomas High School and the District as a whole.  Listed below is an itemized account of the effect this adjustment had upon a wide array of outcomes.  
+Adjustment of the Thomas High School data allows for an accurate portrayal of the testing statistics for both, Thomas High School and the District as a whole.  
 
-## Results:
-
-###### Thomas High School Testing Summary prior to edit:
+## Effect upon Thomas statistics:
+###### Thomas High School Testing Summary with 9th graders registered at NaNs:
 ![](https://github.com/bktescher/school_districtA/blob/main/resources/PNG/Thomas%20Summary%20pre%20edit.png)
-###### Thomas High School Testing Summary post edit: 
+###### Thomas High School Testing Summary following removal of 9th graders: 
 ![](https://github.com/bktescher/school_districtA/blob/main/resources/PNG/Thomas%20Summary%20post.png)
-Notable changes following adjustments:
+
+##### Thomas Overall performance and ranking:
+The removal of the 9th grade NaNs brought Thomas' % Overall passing rate from 64% to 90%.  This was enough to bring the school's overall performance rating from 8th position to 2nd in the district.  
 
 
-##### 
-![]()
-
-
-
-
-
+##### Effect upon District Summary statistics:
 ##### District Summary prior to edit:
 ![](https://github.com/bktescher/school_districtA/blob/main/resources/PNG/Thomas%20summary%20Pre-edit.png)
 ##### District Summary post edit:
 ![](https://github.com/bktescher/school_districtA/blob/main/resources/PNG/district%20summary%20post.png)
+The effects upon the District summary were negligible, increasing Math, Reading and overall passing percentages by less than 0.1%
+
+
+
+
