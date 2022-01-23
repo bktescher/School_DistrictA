@@ -8,7 +8,7 @@ The school board has hired our firm to complete an analysis of the PyCity school
 Adjustment of the Thomas High School data allows for an accurate portrayal of the testing statistics for both, Thomas High School and the District as a whole.  
 
 ##### Thomas High School Testing Aggregation Method:
-![](https://github.com/bktescher/school_districtA/blob/main/resources/THS%20aggregation.png)
+![](https://github.com/bktescher/school_districtA/blob/main/resources/PNG/THS%20aggregation.png)
 
 ###### Thomas High School Testing Summary prior to edit:
 ![](https://github.com/bktescher/school_districtA/blob/main/resources/PNG/Thomas%20summary%20Pre-edit.png)
