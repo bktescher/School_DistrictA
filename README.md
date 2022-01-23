@@ -15,7 +15,7 @@ Adjustment of the Thomas High School data allows for an accurate portrayal of th
 - Scores by School Spending
 - Scores by School Size
 - Scores by School Type
-- 
+
 
 ## Effect upon Thomas Summary Statistics:
 ###### Thomas High School Testing Summary with 9th graders registered at NaNs:
