@@ -16,13 +16,14 @@ Adjustment of the Thomas High School data allows for an accurate portrayal of th
 ###### Thomas High School Testing Summary following removal of 9th graders: 
 ![](https://github.com/bktescher/school_districtA/blob/main/resources/PNG/Thomas%20Summary%20post.png)
 
-##### Thomas Overall performance and ranking:
+
+## Thomas Overall performance and ranking:
 The removal of the 9th grade NaNs brought Thomas' % Overall passing rate from 64% to 90%.  This was enough to bring the school's overall performance rating from 8th position to 2nd in the district.  
 
 
-##### Effect upon District Summary statistics:
+## Effect upon District Summary statistics:
 ##### District Summary prior to edit:
-![](https://github.com/bktescher/school_districtA/blob/main/resources/PNG/Thomas%20summary%20Pre-edit.png)
+![](https://github.com/bktescher/school_districtA/blob/main/resources/PNG/district%20summary%20pre.png)
 ##### District Summary post edit:
 ![](https://github.com/bktescher/school_districtA/blob/main/resources/PNG/district%20summary%20post.png)
 The effects upon the District summary were negligible, increasing Math, Reading and overall passing percentages by less than 0.1%
