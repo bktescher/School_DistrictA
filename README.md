@@ -13,13 +13,11 @@ Adjustment of the Thomas High School data allows for an accurate portrayal of th
 ## Results:
 
 ###### Thomas High School Testing Summary prior to edit:
-![](https://github.com/bktescher/school_districtA/blob/main/resources/PNG/Thomas%20summary%20Pre-edit.png)
+![](https://github.com/bktescher/school_districtA/blob/main/resources/PNG/Thomas%20Summary%20pre%20edit.png)
 ###### Thomas High School Testing Summary post edit: 
-![](https://github.com/bktescher/school_districtA/blob/main/resources/PNG/Thomas%20Summary%20post%20edit.png)
+![](https://github.com/bktescher/school_districtA/blob/main/resources/PNG/Thomas%20Summary%20post.png)
 Notable changes following adjustments:
-- % Passing Math falling from 93% to 67%
-- % Passing Reading falling 97% to 69%
-- % Overall passing falling from 91% to 65%
+
 
 ##### 
 ![]()
