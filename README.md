@@ -35,12 +35,12 @@ The removal of Thomas High School 9th grade stats had very little effect on the 
 - Thomas High School is in the $630-644 spending bracket and scores within this metric were effected by less than 0.1%
 
 ##### Scores by school size
-Impact negligible to all relevant statistics.
+- Impact negligible to all relevant statistics.
 
 ##### Scores by school size
-Impact negligible to all relevant statistics.
+- Impact negligible to all relevant statistics.
 
 ## Summary
 Thomas High School 9th grade students accounted for roughly 1% of the 39,170 total student population in the district.  The removal of their statistics increased percent Passing Math, percent Passing Reading and Overall passing percentages by approximately the same amount, 1%. 
 
-This adjustment had the biggest impact on the percent Passing Math, percent Passing Reading and Overall passing percentage for Thomas High school stat summary.  This allowed them to jump significantly in their Overall performance rankings within the District.   
+This adjustment had the biggest impact on the percent Passing Math, percent Passing Reading and Overall passing percentage for Thomas High school stat summary.  This allowed them to jump significantly in their Overall performance rankings within the District.  Thank you.  
